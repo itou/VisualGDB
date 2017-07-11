@@ -1,0 +1,10 @@
+﻿2017/07/11 17:33:11 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "D:\VisualGDB\LinuxProject4\LinuxProject4\LinuxProject4.vcxproj" (build ターゲット)。
+     1>CommitRemoteBuild:
+         VisualGDB: No file changes detected. If you believe it's a mistake, please clean the project and build it again.
+         VisualGDB: Run "make -f "VisualGDB/Debug/LinuxProject4.msbuild-mak"" in directory "/tmp/VisualGDB/d/VisualGDB/LinuxProject4/LinuxProject4" on pi@192.168.100.232 (SSH)
+     1>プロジェクト "D:\VisualGDB\LinuxProject4\LinuxProject4\LinuxProject4.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.92

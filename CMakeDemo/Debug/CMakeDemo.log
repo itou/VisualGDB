@@ -1,0 +1,12 @@
+﻿2017/07/11 17:33:11 にビルドを開始しました。
+     1>ノード 3 上のプロジェクト "D:\VisualGDB\LinuxProject4\CMakeDemo\CMakeDemo.vcxproj" (build ターゲット)。
+     1>Build:
+         "C:\Program Files (x86)\Sysprogs\VisualGDB\\VisualGDB.exe" /build "D:\VisualGDB\LinuxProject4\CMakeDemo\CMakeDemo.vcxproj" "/solution:D:\VisualGDB\LinuxProject4\LinuxProject4.sln" "/config:Debug" "/platform:Win32"
+         VisualGDB: No file changes detected. If you believe it's a mistake, please clean the project and build it again.
+         VisualGDB: Run "make " in directory "/tmp/VisualGDB/d/VisualGDB/LinuxProject4/CMakeDemo/Debug" on pi@192.168.100.232 (SSH)
+         [100%] Built target CMakeDemo
+     1>プロジェクト "D:\VisualGDB\LinuxProject4\CMakeDemo\CMakeDemo.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.96
